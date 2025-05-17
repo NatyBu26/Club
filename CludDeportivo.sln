@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CludDeportivo", "CludDeportivo\CludDeportivo.csproj", "{6E62A8EE-43FC-4057-9602-9795629A57E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Club deportivo Registro", "..\Club deportivo Registro\Club deportivo Registro.csproj", "{88BA4617-3545-E313-ED11-3FB753C5A629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E62A8EE-43FC-4057-9602-9795629A57E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E62A8EE-43FC-4057-9602-9795629A57E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E62A8EE-43FC-4057-9602-9795629A57E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E62A8EE-43FC-4057-9602-9795629A57E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BA4617-3545-E313-ED11-3FB753C5A629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BA4617-3545-E313-ED11-3FB753C5A629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BA4617-3545-E313-ED11-3FB753C5A629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BA4617-3545-E313-ED11-3FB753C5A629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9524B4AB-FF76-41DF-9D73-48268E1D4F77}
+	EndGlobalSection
+EndGlobal
